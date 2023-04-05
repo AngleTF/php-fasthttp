@@ -1,0 +1,25 @@
+{
+    "name": "angletf/fasthttp",
+    "authors": [
+        {
+            "name": "Administrator",
+            "email": "742592958@qq.com",
+            "homepage": "http://angletf.github.io",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=8.1",
+        "ext-curl": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "angletf\\": "src/"
+        }
+    },
+    "license": "MIT",
+    "support": {
+        "email": "742592958@qq.com",
+        "issues": "https://github.com/AngleTF/php-fasthttp/issues"
+    }
+}
