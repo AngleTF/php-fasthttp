@@ -1,5 +1,13 @@
 {
     "name": "angletf/fasthttp",
+    "description": "php http请求库, 简单好用 / http request / http response",
+    "type": "lib",
+    "keywords": [
+        "php-http",
+        "http-client",
+        "fast-http",
+        "http"
+    ],
     "authors": [
         {
             "name": "Administrator",
